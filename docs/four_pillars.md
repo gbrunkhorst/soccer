@@ -1,6 +1,9 @@
 # Four Pillars of Soccer
-
-The core aspects of player development are stated in different ways in different places - here we break down the core components of soccer into mentality, physicality, tactical, and technical.  
+ 
+* mentality
+* physical
+* tactical
+* technical  
 
 ## Mentality
 * love for the game
